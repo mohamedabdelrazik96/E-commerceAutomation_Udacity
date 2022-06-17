@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/E-commerce-App-Automation-Testing-main.iml" filepath="$PROJECT_DIR$/.idea/E-commerce-App-Automation-Testing-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EcommerceAutomation_Udacity.iml" filepath="$PROJECT_DIR$/.idea/EcommerceAutomation_Udacity.iml" />
     </modules>
   </component>
 </project>
